@@ -4,6 +4,7 @@ const SearchBox = ({searchField, searchChange}) => {
   return (
     <div className='pa2'>
     <input
+      aria-label="search robots"
       className='pa3 ba b--green bg-lightest-blue'
       type='search'
       placeholder='Search robots'
@@ -13,4 +14,4 @@ const SearchBox = ({searchField, searchChange}) => {
   )
 }
 
-export default SearchBox
+export default SearchBox;
