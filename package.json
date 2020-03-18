@@ -5,15 +5,15 @@
   "homepage": "https://sensei100.github.io/robofriends",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "react-redux": "^6.0.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-redux": "^6.0.1",
     "react-scripts": "2.1.2",
-    "redux": "^4.0.1",
+    "redux": "^4.0.5",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
-    "tachyons": "^4.11.1",
-    "sw-precache": "^4.0.0"
+    "sw-precache": "^4.0.0",
+    "tachyons": "^4.11.1"
   },
   "scripts": {
     "predeploy": "npm run build",
